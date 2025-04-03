@@ -1,0 +1,164 @@
+body{
+    /* width: 200px; */
+    /* height: 400px; */
+    background-size: cover;
+    background-image: url(abstract-time-technology-background-clock-hologram-blue-colors-concept-fast-speed-digital-data-transfer-futuristic-357618312.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: absolute;
+}
+.div1{
+    margin-left: 50px;
+}
+.div2{
+    width: 320px;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 10px;
+    /* background-attachment: fixed; */
+    margin-left: 50px;
+    
+}
+img{
+    list-style: none;
+    margin-left: 1em;
+    justify-content: space-between;
+}
+.wake{
+    margin-left: 10px;
+    align-content:space-evenly ;  
+}
+img,span,select{
+    margin-top: 40px;
+}
+#select1{
+    margin-left: 20px;
+}
+#select2{
+    margin-left:37px ;
+}
+#select3{
+    margin-left: 50px;
+}
+#select4{
+    margin-left: 40px;
+}
+.sumit{
+    width: 150px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 50px;
+    background-image: linear-gradient( to right , rgb(22, 99, 199) ,rgb(124, 140, 233) ,rgb(93, 11, 245));
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+
+.sumit:hover{
+    background-image: linear-gradient( to left, rgb(22, 99, 199) ,rgb(124, 140, 233) ,rgb(190, 11, 245) );
+    content: "Party Time";
+}
+.save1{
+    width: 320px;
+    height: 400px;
+    background-color: rgb(242, 245, 245);
+    margin-left: 400px;
+    border-radius: 10px;
+}
+.good{
+    width: 320px;
+    height: 40px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 10px;
+    /* margin-left: 400px; */
+    margin-top: -400px;
+    border-radius: 5px;
+    border-radius: 10px;
+    
+}
+.good1{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#printValue,#nLunch, #nnap, #sleep{
+display: flex;
+ align-content: space-evenly;
+ margin-left: 50px;
+}
+.watch{
+    width: 320px;
+    height: 400px;
+    background-color: rgb(252, 253, 246);
+    margin-left: 750px;
+    margin-top: -400px;
+    border-radius: 10px;
+    position: static;
+}
+.time{
+    width: 320px;
+    height: 90px;
+    background-color: aqua;
+    /* margin-left: 40px; */
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: -200px;
+    z-index: 0;
+    
+}
+.hr{
+     width: 50px;
+     height: 40px;
+    background-color: azure;
+    margin: 2px;
+    text-align: center;
+    color: #f10b17;
+    opacity: 1;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 25px;
+    margin-top: 30px;
+    /* margin-top: -5px; */
+
+}
+.hr1{
+    width: 30px;
+    height: 20px;
+    background-color: rgb(255, 251, 240);
+    padding: 10px;
+    margin-top: 30px;
+    color: #f10b17;
+}
+.bold{
+    font-weight: bolder;
+}
+.celebration{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(204, 100, 173);
+    margin-top: 200px;
+    color: rgb(1, 43, 34);
+    padding-top: 20px;
+    font-size: 15px;
+    align-items: center;
+    border-radius: 10px;
+
+}
+.celebration1{
+    font-size: 17px;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+.chit{
+    /* width: 317px; */
+    height: 250px;
+    margin-top: -20px;
+    margin-left: -15px;
+    max-width: 100%;
+    /* height: auto; */
+
+    
+
+}
